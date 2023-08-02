@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Taufiqur RM
 I am freelance graphic design and web programming
 
-##About Me:
+## About Me:
 - 🔭 I’m currently working at [MTs. Bustanul Ulum] (https://mtsbu.sch.id/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
